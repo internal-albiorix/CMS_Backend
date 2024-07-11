@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9awJxcrftItXBjwtvCx64E1T9qJo/2Xs12PHD5RDvjPGAPkWyk5wzU00kDtjZ2u2w/AneNk9bKT3TjQyRDw2zA==",
+  "success": true,
+  "projectFilePath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albiorix Technology\\.nuget\\packages\\nswag.annotations\\13.18.2\\nswag.annotations.13.18.2.nupkg.sha512"
+  ],
+  "logs": []
+}

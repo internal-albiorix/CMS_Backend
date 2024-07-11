@@ -1,0 +1,25 @@
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.deps.json
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.dll
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.pdb
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.csproj.AssemblyReference.cache
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.AssemblyInfoInputs.cache
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.AssemblyInfo.cs
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.csproj.CoreCompileInputs.cache
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.dll
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\refint\CandidateManagementSystem.Model.dll
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.pdb
+D:\CompnayProject\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\ref\CandidateManagementSystem.Model.dll
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.deps.json
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.dll
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.pdb
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.csproj.AssemblyReference.cache
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.AssemblyInfoInputs.cache
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.AssemblyInfo.cs
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.csproj.CoreCompileInputs.cache
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.sourcelink.json
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.dll
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\refint\CandidateManagementSystem.Model.dll
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.pdb
+D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\ref\CandidateManagementSystem.Model.dll

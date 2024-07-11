@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CandidateManagementSystem.Model/1.0.0": {
+        "dependencies": {
+          "NSwag.Annotations": "13.18.2"
+        },
+        "runtime": {
+          "CandidateManagementSystem.Model.dll": {}
+        }
+      },
+      "NSwag.Annotations/13.18.2": {
+        "runtime": {
+          "lib/netstandard2.0/NSwag.Annotations.dll": {
+            "assemblyVersion": "13.18.2.0",
+            "fileVersion": "13.18.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CandidateManagementSystem.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NSwag.Annotations/13.18.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2zDLZXEU1PVuvdMc1k+SIkLonp8vPRHAkto6qQfCeCPqhDaF82+FOWe3TLJIYBS8IC7aV/mT+eoqJLeZvXiN4A==",
+      "path": "nswag.annotations/13.18.2",
+      "hashPath": "nswag.annotations.13.18.2.nupkg.sha512"
+    }
+  }
+}
