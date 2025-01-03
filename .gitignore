@@ -4,8 +4,16 @@
 
 # .NET Core
 ## Ignore build results
-bin/
-obj/
+/bin/
+/debug/
+/obj/
+/.vs/
+
+# Ignore .dll files
+*.dll
+
+# Ignore .pdb files
+*.pdb
 
 ## User-specific files
 .vs/
