@@ -128,8 +128,8 @@ namespace CandidateManagementSystem.Services
             var emailTemplate = await RenderEmailTemplate(currentOpenings, template);
             List<string> testEmails = new List<string>
                     {
-                        "vaijulbalar83@gmail.com",
-                        "vaijulbalar.18beceg096@gmail.com"
+                        "voqueugonefreu-7525@yopmail.com",
+                        "fifasatrobra-1099@yopmail.com"
                     };
             var subject = "Current Opening";
             var body = emailTemplate;

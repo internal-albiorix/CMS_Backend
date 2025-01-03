@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj": {}
+    "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj": {}
   },
   "projects": {
-    "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj": {
+    "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj",
         "projectName": "CandidateManagementSystem.Model",
-        "projectPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj",
+        "projectPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj",
         "packagesPath": "C:\\Users\\Albiorix Technology\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\obj\\",
+        "outputPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Albiorix Technology\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -66,21 +71,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj": {
+    "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj",
         "projectName": "CandidateManagementSystem.Repository",
-        "projectPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj",
+        "projectPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj",
         "packagesPath": "C:\\Users\\Albiorix Technology\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Albiorix Technology\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,8 +103,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj": {
-                "projectPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj"
+              "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj": {
+                "projectPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj"
               }
             }
           }
@@ -108,8 +117,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -172,21 +182,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj": {
+    "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj",
         "projectName": "CandidateManagementSystem.Services",
-        "projectPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj",
+        "projectPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj",
         "packagesPath": "C:\\Users\\Albiorix Technology\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\obj\\",
+        "outputPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Albiorix Technology\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -200,11 +214,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj": {
-                "projectPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj"
+              "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj": {
+                "projectPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Model\\CandidateManagementSystem.Model.csproj"
               },
-              "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj": {
-                "projectPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj"
+              "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj": {
+                "projectPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj"
               }
             }
           }
@@ -217,8 +231,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -257,7 +272,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

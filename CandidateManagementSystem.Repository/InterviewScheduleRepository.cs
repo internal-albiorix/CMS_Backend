@@ -133,7 +133,7 @@ namespace CandidateManagementSystem.Repository
                              InterviewerModel = schedule.InterviewerModel,
                              InterviewRoundModel = schedule.InterviewRoundModel
                          })
-                        .Where(x => x.CandidateModel != null)
+                        .Where(x => x.CandidateModel != null && (x.InterviewerModel.Id == CurrentUser.User.Id || CurrentUser.User.Role == (int)UserRoles.Admin || CurrentUser.User.Role == (int)UserRoles.HR))
                         .ToListAsync();
                 return InterviewScheduleList;
 

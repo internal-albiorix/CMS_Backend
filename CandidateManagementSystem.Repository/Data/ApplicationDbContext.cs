@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using CandidateManagementSystem.Model.Model;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Storage;
 
 namespace CandidateManagementSystem.Repository.Data
 {
@@ -12,6 +14,24 @@ namespace CandidateManagementSystem.Repository.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
+            try
+            {
+                var databaseCreator = Database.GetService<IDatabaseCreator>() as RelationalDatabaseCreator;
+                if (databaseCreator != null)
+                {
+                    if (!databaseCreator.CanConnect())
+                        databaseCreator.Create();
+
+                    if (!databaseCreator.HasTables())
+                        databaseCreator.CreateTables();
+
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
         }
 
         #region DbSet Section

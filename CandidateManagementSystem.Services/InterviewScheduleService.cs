@@ -1,16 +1,8 @@
 ﻿using CandidateManagementSystem.Model.Dto;
 using CandidateManagementSystem.Model.Model;
-using CandidateManagementSystem.Repository;
 using CandidateManagementSystem.Repository.Interface;
 using CandidateManagementSystem.Repository.Mapper;
 using CandidateManagementSystem.Services.Interface;
-using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Security;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CandidateManagementSystem.Services
 {

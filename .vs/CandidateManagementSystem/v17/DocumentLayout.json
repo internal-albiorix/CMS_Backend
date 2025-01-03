@@ -1,78 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CandidateManagementSystem.Repository\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.services\\googlecalanderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|solutionrelative:candidatemanagementsystem.services\\googlecalanderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem\\controllers\\currentopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\controllers\\currentopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.repository\\emailtemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\emailtemplaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem\\candidatemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\candidatemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem.repository\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.services\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|solutionrelative:candidatemanagementsystem.services\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.repository\\migrations\\20240604105240_addemaillog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\migrations\\20240604105240_addemaillog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.repository\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.repository\\migrations\\20240527080324_addcandidateidcascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\migrations\\20240527080324_addcandidateidcascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.repository\\migrations\\20240527090924_addcandidatehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\migrations\\20240527090924_addcandidatehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.repository\\migrations\\20240605133436_addisrejectcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\migrations\\20240605133436_addisrejectcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem.services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem.services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|solutionrelative:candidatemanagementsystem.services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|d:\\vaijul balar\\cms\\candidatemanagementsystem\\candidatemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem\\controllers\\interviewschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\controllers\\interviewschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,232 +38,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\.gitignore",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\.gitignore",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\.gitignore",
-              "RelativeToolTip": "CandidateManagementSystem.Repository\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-07-11T07:17:09.716Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CandidateManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T13:48:58.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-07-11T07:15:37.922Z",
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:45:58.248Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "CandidateManagementSystem\\appsettings.json",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\appsettings.json",
-              "RelativeToolTip": "CandidateManagementSystem\\appsettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-14T11:06:37.136Z",
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\Helper\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\Helper\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\Helper\\EmailHelper.cs",
+              "RelativeToolTip": "CandidateManagementSystem.Repository\\Helper\\EmailHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:41:29.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GoogleCalanderService.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\GoogleCalanderService.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Services\\GoogleCalanderService.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\GoogleCalanderService.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Services\\GoogleCalanderService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T09:59:06.861Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\appsettings.json",
+              "RelativeToolTip": "CandidateManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T13:22:17.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CurrentOpeningController.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\CurrentOpeningController.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem\\Controllers\\CurrentOpeningController.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\CurrentOpeningController.cs",
-              "RelativeToolTip": "CandidateManagementSystem\\Controllers\\CurrentOpeningController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowDwAAAA6AAAA",
+              "Title": "EmailTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\EmailTemplateService.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem.Services\\EmailTemplateService.cs",
+              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\EmailTemplateService.cs",
+              "RelativeToolTip": "CandidateManagementSystem.Services\\EmailTemplateService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAqwJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T06:02:36.363Z",
+              "WhenOpened": "2025-01-02T09:02:56.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmailTemplateRepository.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\EmailTemplateRepository.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\EmailTemplateRepository.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\EmailTemplateRepository.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Repository\\EmailTemplateRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:36:38.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240604105240_AddEmailLog.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240604105240_AddEmailLog.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\Migrations\\20240604105240_AddEmailLog.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240604105240_AddEmailLog.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Repository\\Migrations\\20240604105240_AddEmailLog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:37:38.243Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "JwtMiddleware.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
-              "RelativeToolTip": "CandidateManagementSystem\\Middleware\\JwtMiddleware.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Title": "InterviewScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Controllers\\InterviewScheduleController.cs",
+              "RelativeDocumentMoniker": "CandidateManagementSystem\\Controllers\\InterviewScheduleController.cs",
+              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Controllers\\InterviewScheduleController.cs",
+              "RelativeToolTip": "CandidateManagementSystem\\Controllers\\InterviewScheduleController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T10:13:29.385Z"
+              "WhenOpened": "2024-12-27T07:48:38.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CandidateController.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Controllers\\CandidateController.cs",
               "RelativeDocumentMoniker": "CandidateManagementSystem\\Controllers\\CandidateController.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Controllers\\CandidateController.cs",
               "RelativeToolTip": "CandidateManagementSystem\\Controllers\\CandidateController.cs",
-              "ViewState": "AQIAAO8AAAAAAAAAAAAQwEUBAAANAAAA",
+              "ViewState": "AgIAALYAAAAAAAAAAAAcwMIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T08:23:46.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CandidateManagementSystem.csproj",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.csproj",
-              "RelativeDocumentMoniker": "CandidateManagementSystem\\CandidateManagementSystem.csproj",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\CandidateManagementSystem.csproj",
-              "RelativeToolTip": "CandidateManagementSystem\\CandidateManagementSystem.csproj",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-09T08:50:31.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StatusService.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\StatusService.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Services\\StatusService.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\StatusService.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Services\\StatusService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T12:36:29.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240527090924_AddCandidateHistory.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240527090924_AddCandidateHistory.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\Migrations\\20240527090924_AddCandidateHistory.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240527090924_AddCandidateHistory.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Repository\\Migrations\\20240527090924_AddCandidateHistory.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:39:07.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Controllers\\UserController.cs",
-              "RelativeToolTip": "CandidateManagementSystem\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAywFoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T10:35:51.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240527080324_AddCandidateIdCascade.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240527080324_AddCandidateIdCascade.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\Migrations\\20240527080324_AddCandidateIdCascade.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240527080324_AddCandidateIdCascade.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Repository\\Migrations\\20240527080324_AddCandidateIdCascade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:39:02.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Repository\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:37:31.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20240605133436_AddIsRejectColumn.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240605133436_AddIsRejectColumn.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\Migrations\\20240605133436_AddIsRejectColumn.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Repository\\Migrations\\20240605133436_AddIsRejectColumn.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Repository\\Migrations\\20240605133436_AddIsRejectColumn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T06:37:33.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EmailTemplateService.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\EmailTemplateService.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem.Services\\EmailTemplateService.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem.Services\\EmailTemplateService.cs",
-              "RelativeToolTip": "CandidateManagementSystem.Services\\EmailTemplateService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAADgv1EAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:22:58.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "CandidateManagementSystem\\Program.cs",
-              "ToolTip": "D:\\Vaijul Balar\\CMS\\CandidateManagementSystem\\CandidateManagementSystem\\Program.cs",
-              "RelativeToolTip": "CandidateManagementSystem\\Program.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T10:13:48.53Z"
+              "WhenOpened": "2024-06-11T08:23:46.884Z",
+              "EditorCaption": ""
             }
           ]
         }
