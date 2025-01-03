@@ -28,3 +28,10 @@
 *.suo
 *.sln.docstates
 /CandidateManagementSystem.Repository/obj/Debug/net7.0/CandidateManagementSystem.Repository.genruntimeconfig.cache
+/.vs/CandidateManagementSystem/v17/DocumentLayout.json
+/CandidateManagementSystem.Model/obj/Debug/net7.0/CandidateManagementSystem.Model.assets.cache
+/CandidateManagementSystem.Model/obj/Debug/net7.0/CandidateManagementSystem.Model.csproj.FileListAbsolute.txt
+/CandidateManagementSystem.Repository/obj/Debug/net7.0/CandidateManagementSystem.Repository.csproj.FileListAbsolute.txt
+/CandidateManagementSystem.Repository/obj/Debug/net7.0/CandidateManagementSystem.Repository.assets.cache
+/CandidateManagementSystem.Services/obj/Debug/net7.0/CandidateManagementSystem.Services.csproj.FileListAbsolute.txt
+/CandidateManagementSystem.Services/obj/Debug/net7.0/CandidateManagementSystem.Services.assets.cache
