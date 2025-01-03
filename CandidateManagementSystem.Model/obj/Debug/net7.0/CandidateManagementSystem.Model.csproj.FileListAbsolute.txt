@@ -23,16 +23,3 @@ D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\ob
 D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\refint\CandidateManagementSystem.Model.dll
 D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.pdb
 D:\Vaijul Balar\CMS\CandidateManagementSystem\CandidateManagementSystem.Model\obj\Debug\net7.0\ref\CandidateManagementSystem.Model.dll
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.deps.json
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.dll
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\bin\Debug\net7.0\CandidateManagementSystem.Model.pdb
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.csproj.AssemblyReference.cache
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.AssemblyInfoInputs.cache
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.AssemblyInfo.cs
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.csproj.CoreCompileInputs.cache
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.sourcelink.json
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.dll
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\refint\CandidateManagementSystem.Model.dll
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\CandidateManagementSystem.Model.pdb
-C:\Users\Albiorix Technology\source\repos\CMS_backend\CandidateManagementSystem.Model\obj\Debug\net7.0\ref\CandidateManagementSystem.Model.dll

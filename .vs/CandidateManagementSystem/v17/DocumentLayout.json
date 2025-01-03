@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{B7A30E3F-E1D3-48C7-BA4A-13901DC03130}|CandidateManagementSystem.Repository\\CandidateManagementSystem.Repository.csproj|solutionrelative:candidatemanagementsystem.repository\\helper\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8DF18831-167D-4714-AA29-72D3C8A0FCE5}|CandidateManagementSystem\\CandidateManagementSystem.csproj|solutionrelative:candidatemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|c:\\users\\albiorix technology\\source\\repos\\cms_backend\\candidatemanagementsystem.services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE23A730-7674-4CD6-8411-1F96FBCACD3B}|CandidateManagementSystem.Services\\CandidateManagementSystem.Services.csproj|solutionrelative:candidatemanagementsystem.services\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -72,39 +68,27 @@
               "RelativeDocumentMoniker": "CandidateManagementSystem.Repository\\Helper\\EmailHelper.cs",
               "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Repository\\Helper\\EmailHelper.cs",
               "RelativeToolTip": "CandidateManagementSystem.Repository\\Helper\\EmailHelper.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwB4AAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T10:41:29.634Z",
+              "WhenOpened": "2025-01-03T08:51:19.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "CandidateManagementSystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\appsettings.json",
-              "RelativeToolTip": "CandidateManagementSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-02T13:22:17.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EmailTemplateService.cs",
               "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\EmailTemplateService.cs",
               "RelativeDocumentMoniker": "CandidateManagementSystem.Services\\EmailTemplateService.cs",
               "ToolTip": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem.Services\\EmailTemplateService.cs",
               "RelativeToolTip": "CandidateManagementSystem.Services\\EmailTemplateService.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAqwJoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAqwIwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T09:02:56.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "InterviewScheduleController.cs",
               "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Controllers\\InterviewScheduleController.cs",
               "RelativeDocumentMoniker": "CandidateManagementSystem\\Controllers\\InterviewScheduleController.cs",
@@ -116,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CandidateController.cs",
               "DocumentMoniker": "C:\\Users\\Albiorix Technology\\source\\repos\\CMS_backend\\CandidateManagementSystem\\Controllers\\CandidateController.cs",
               "RelativeDocumentMoniker": "CandidateManagementSystem\\Controllers\\CandidateController.cs",

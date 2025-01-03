@@ -7,6 +7,11 @@
 **/bin/
 **/obj/
 /.vs/
+/CandidateManagementSystem.Services/bin/
+/CandidateManagementSystem.Services/obj/
+/CandidateManagementSystem.Repository/bin/
+/CandidateManagementSystem.Repository/obj/
+/CandidateManagementSystem.Model/obj/
 
 # Ignore .dll files
 *.dll
@@ -22,3 +27,4 @@
 *.userosscache
 *.suo
 *.sln.docstates
+/CandidateManagementSystem.Repository/obj/Debug/net7.0/CandidateManagementSystem.Repository.genruntimeconfig.cache
