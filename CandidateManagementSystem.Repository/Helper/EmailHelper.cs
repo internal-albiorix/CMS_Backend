@@ -28,7 +28,7 @@ namespace CandidateManagementSystem.Helper
         }
         public bool SentEmail(List<string> toEmails, string subject, string body)
         {
-            var fromAddress = new MailAddress(_configuration["SmtpSettings:Username"], _configuration["SmtpSettings:Name"]);
+            var fromAddress = new MailAddress(_configuration["SmtpSettings:Usernameg"], _configuration["SmtpSettings:Name"]);
             var emailLog = new EmailLogModel
             {
                 SentDate = DateTime.Now,

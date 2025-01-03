@@ -4,9 +4,8 @@
 
 # .NET Core
 ## Ignore build results
-/bin/
-/debug/
-/obj/
+**/bin/
+**/obj/
 /.vs/
 
 # Ignore .dll files
