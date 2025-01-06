@@ -47,6 +47,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+    <Folder Include="files\resume\" />
     <Folder Include="file\resume\" />
   </ItemGroup>
 

@@ -22,10 +22,13 @@ namespace CandidateManagementSystem.Controllers
     {
         private IWebHostEnvironment _env;
         private readonly IReferemployeeService _referemployeeService;
-        public ReferemployeeController(IReferemployeeService referemployeeService, IWebHostEnvironment env)
+        public readonly ICandidateService _candidateService;
+
+        public ReferemployeeController(IReferemployeeService referemployeeService, IWebHostEnvironment env, ICandidateService candidateService)
         {
             _env = env;
             _referemployeeService = referemployeeService;
+            _candidateService = candidateService;
         }
 
         [HttpPost("CreateReferemployee")]
@@ -34,6 +37,14 @@ namespace CandidateManagementSystem.Controllers
             var result = new ResponseModel();
             try
             {
+                var emailAlreadyExis = await _candidateService.CheckEmailIsAlreadyExist(referemployeeDto.Email, referemployeeDto.Id);
+                if (emailAlreadyExis)
+                {
+                    result.Success = false;
+                    result.Message = "Candidate Already Referred.";
+                    result.StatusCode = HttpStatusCode.OK;
+                    return Ok(result);
+                }
                 if (resumeFile != null)
                 {
                     string fileRes = FileSave.SaveResume(resumeFile, _env);
@@ -192,9 +203,43 @@ namespace CandidateManagementSystem.Controllers
                     return NotFound("File not found.");
                 }
                 var fileBytes = System.IO.File.ReadAllBytes(filePath);
-              
-               return File(fileBytes, "application/octet-stream", fileName);
-              
+
+                // Get the file extension and map it to the appropriate MIME type
+                string fileExtension = Path.GetExtension(fileName).ToLower();
+
+                string mimeType = "application/octet-stream"; // Default MIME type
+
+                // Dynamically set the MIME type based on the file extension
+                switch (fileExtension)
+                {
+                    case ".pdf":
+                        mimeType = "application/pdf";
+                        break;
+                    case ".docx":
+                        mimeType = "application/vnd.openxmlformats-officedocument.wordprocessingml.document";
+                        break;
+                    case ".doc":
+                        mimeType = "application/msword";
+                        break;
+                    case ".xlsx":
+                        mimeType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+                        break;
+                    case ".xls":
+                        mimeType = "application/vnd.ms-excel";
+                        break;
+                    case ".jpg":
+                    case ".jpeg":
+                        mimeType = "image/jpeg";
+                        break;
+                    case ".png":
+                        mimeType = "image/png";
+                        break;
+                        // Add more file types as needed
+                }
+
+                // Return the file with the appropriate MIME type
+                return File(fileBytes, mimeType, fileName);
+
             }
             catch (Exception ex)
             {
